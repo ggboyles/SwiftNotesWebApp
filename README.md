@@ -22,6 +22,8 @@ SwiftNotes is a web application designed for easy note-taking, developed in 2023
 - Username and password required.
 - Redirects users not logged in to the login page.
 - Error message if user is not in system, or credentials are incorrect.
+  ![login page](https://github.com/ggboyles/projects/assets/152362542/f56fe488-5dbe-45f7-98e6-4f41596454a3)
+
 
 ### Register Form:
 
