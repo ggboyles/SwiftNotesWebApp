@@ -42,11 +42,20 @@ SwiftNotes is a web application designed for easy note-taking, developed in 2023
 - Access restricted for non-logged-in users.
 - Allows you to create notes and delete them.
 
+  ![home page](https://github.com/ggboyles/projects/assets/152362542/0a2c850a-f5ef-4df9-ba7c-be20a71ed9e1)
+
+
 ### Other Pages:
 
 - About page simply describes the web application.
 - Contact page gives email contact information.
 - Access restricted for non-logged-in users.
+
+  ![about page](https://github.com/ggboyles/projects/assets/152362542/6d0cb7d6-2406-45e0-8336-c5f10c314c19)
+
+  ![contact page](https://github.com/ggboyles/projects/assets/152362542/1ad1ab21-9c29-4441-9f80-9c4fff9191d8)
+
+
 
 ## Server-side Scripting
 
