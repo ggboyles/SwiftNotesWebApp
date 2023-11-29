@@ -36,3 +36,4 @@ Server side scripting
 • Use sessions to prevent a user from accessing any page directly if they have not logged in first
 Presentation
 • You can use the W3.CSS framework to style your site. Please do not use any other framework to style. You may use your own CSS style rules when/if overwriting/customizing a W3.CSS rule you don't like.
+![login page](https://github.com/ggboyles/projects/assets/152362542/1c94c6fe-1169-4b05-91b3-fc28c2be08f3)
