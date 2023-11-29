@@ -25,6 +25,7 @@ SwiftNotes is a web application designed for easy note-taking, developed in 2023
 
   ![login page](https://github.com/ggboyles/projects/assets/152362542/f56fe488-5dbe-45f7-98e6-4f41596454a3)
 
+  ![Screenshot 2023-11-28 at 11 44 26 PM](https://github.com/ggboyles/projects/assets/152362542/f9164c3e-a4d9-498c-ab9f-c75836d6c224)
 
 ### Register Form:
 
@@ -34,6 +35,11 @@ SwiftNotes is a web application designed for easy note-taking, developed in 2023
 - Error message if username is taken already.
 
   ![register page](https://github.com/ggboyles/projects/assets/152362542/ba0e8913-c5fe-4357-a6d9-3aace9b8a01c)
+
+  ![Screenshot 2023-11-28 at 11 44 05 PM](https://github.com/ggboyles/projects/assets/152362542/ad965690-0ebf-4769-89c7-bb2650506262)
+
+  ![Screenshot 2023-11-28 at 11 43 37 PM](https://github.com/ggboyles/projects/assets/152362542/590e1c6f-5953-4cc7-a51e-193a182928f0)
+
 
 
 ### Home Page:
